@@ -1,0 +1,342 @@
+@media only screen and (max-width: 414px) {
+    .circle{
+        width: 10px;
+        height: 10px;
+        border: 1px solid;
+    }
+    h2{
+        -webkit-text-stroke: 0px;
+
+    }
+    #regField{
+        padding: 25px 50px;
+    }
+    #regField h1{
+        font-size: 30px;
+        line-height: 35px;
+    }
+    #reg{
+        padding: 0 35px;
+        font-size: 15px;
+        font-size: 20px;
+    }
+    .box{
+        padding: 40px 10px;
+        height: 370px;
+    }
+    #title{
+        margin-bottom: 10px;
+        font-size: 25px;
+    }
+    .inputField{
+        width: 250px;
+        /* margin-left: 30px; */
+        height: 40px;
+        margin: 20px;
+    }
+    .inputField input{
+        font-size: 16px;
+    }
+    .inputField i{
+        font-size: 15px;
+    }
+    #p{
+        margin-left: 20px;
+        font-size: 10px;
+    }
+    .w1{
+        flex-basis: 48%;
+        height: 35px;
+    }
+    .up{
+        /* margin-top: -40px; */
+        left: 90px;
+        position: absolute;
+        bottom: 60px;
+    }
+    .in{
+        /* margin-top: -10px; */
+        left: 90px;
+        bottom: 15px;
+        position: absolute;
+    }
+    .mb{
+        margin-bottom: 10px;
+    }
+    .textField h2, .textField span{
+        font-size: 5vw;
+    }
+    .navbar{
+        height: 50px;
+    }
+    .navbarMenu{
+        margin-top: 50px;
+        width: 100%;
+        margin-left: 0%;
+        border-radius: 0;
+    }
+    .navbarMenu ul li{
+        width: 70px;
+        /* display: flex; */
+        /* justify-content: space-around; */
+        font-size: 13px;
+        /* border: 1px solid red; */
+        margin: 0 10px;
+    }
+    .content2-Field{
+        display: block;
+    }
+    .left{
+        width: 100%;
+        position: absolute;
+        top: -30%;
+        padding: 20px;
+    }
+    .left p{
+    font-size: 25px;
+    }
+    .content2-Field h1{
+        left: 35%;
+    }
+    .line1{
+        top: 40%;
+        position: absolute;
+
+    }
+    .line2{
+        top: 73%;
+        position: absolute;
+    }
+    .line3{
+        top: 106%;
+        position: absolute;
+    }
+}
+@media only screen and (min-width: 492px) and (max-width: 748px) {
+    .circle{
+        width: 10px;
+        height: 10px;
+        border: 1px solid;
+    }
+    h2{
+        -webkit-text-stroke: 0px;
+
+    }
+    #regField{
+        padding: 25px 50px;
+    }
+    #regField h1{
+        font-size: 30px;
+        line-height: 35px;
+    }
+    #reg{
+        padding: 0 35px;
+        font-size: 15px;
+        font-size: 20px;
+    }
+    .box{
+        padding: 40px 10px;
+        height: 370px;
+    }
+    #title{
+        margin-bottom: 10px;
+        font-size: 25px;
+    }
+    .inputField{
+        width: 250px;
+        /* margin-left: 30px; */
+        height: 40px;
+        margin: 20px;
+    }
+    .inputField input{
+        font-size: 16px;
+    }
+    .inputField i{
+        font-size: 15px;
+    }
+    #p{
+        margin-left: 20px;
+        font-size: 10px;
+    }
+    .w1{
+        flex-basis: 48%;
+        height: 35px;
+    }
+    .up{
+        /* margin-top: -40px; */
+        left: 90px;
+        position: absolute;
+        bottom: 60px;
+    }
+    .in{
+        /* margin-top: -10px; */
+        left: 90px;
+        bottom: 15px;
+        position: absolute;
+    }
+    .mb{
+        margin-bottom: 10px;
+    }
+    .textField h2, .textField span{
+        font-size: 5vw;
+    }
+    .navbar{
+        height: 50px;
+    }
+    .navbarMenu{
+        margin-top: 50px;
+        width: 100%;
+        margin-left: 0%;
+        border-radius: 0;
+    }
+    .navbarMenu ul li{
+        width: 70px;
+        /* display: flex; */
+        /* justify-content: space-around; */
+        font-size: 13px;
+        /* border: 1px solid red; */
+        margin: 0 10px;
+    }
+    .content2-Field{
+        display: block;
+    }
+    .left{
+        width: 100%;
+        position: absolute;
+        top: -30%;
+        padding: 20px;
+    }
+    .left p{
+    font-size: 25px;
+    }
+    .content2-Field h1{
+        left: 40%;
+    }
+    .line1{
+        top: 40%;
+        position: absolute;
+
+    }
+    .line2{
+        top: 73%;
+        position: absolute;
+    }
+    .line3{
+        top: 106%;
+        position: absolute;
+    }
+}
+@media only screen and (min-width: 415px) and (max-width: 491px) {
+    .circle{
+        width: 10px;
+        height: 10px;
+        border: 1px solid;
+    }
+    h2{
+        -webkit-text-stroke: 0px;
+
+    }
+    #regField{
+        padding: 25px 50px;
+    }
+    #regField h1{
+        font-size: 30px;
+        line-height: 35px;
+    }
+    #reg{
+        padding: 0 35px;
+        font-size: 15px;
+        font-size: 20px;
+    }
+    .box{
+        padding: 40px 10px;
+        height: 370px;
+    }
+    #title{
+        margin-bottom: 10px;
+        font-size: 25px;
+    }
+    .inputField{
+        width: 250px;
+        /* margin-left: 30px; */
+        height: 40px;
+        margin: 20px;
+    }
+    .inputField input{
+        font-size: 16px;
+    }
+    .inputField i{
+        font-size: 15px;
+    }
+    #p{
+        margin-left: 20px;
+        font-size: 10px;
+    }
+    .w1{
+        flex-basis: 48%;
+        height: 35px;
+    }
+    .up{
+        /* margin-top: -40px; */
+        left: 90px;
+        position: absolute;
+        bottom: 60px;
+    }
+    .in{
+        /* margin-top: -10px; */
+        left: 90px;
+        bottom: 15px;
+        position: absolute;
+    }
+    .mb{
+        margin-bottom: 10px;
+    }
+    .textField h2, .textField span{
+        font-size: 5vw;
+    }
+    .navbar{
+        height: 50px;
+    }
+    .navbarMenu{
+        margin-top: 50px;
+        width: 100%;
+        margin-left: 0%;
+        border-radius: 0;
+    }
+    .navbarMenu ul li{
+        width: 70px;
+        /* display: flex; */
+        /* justify-content: space-around; */
+        font-size: 13px;
+        /* border: 1px solid red; */
+        margin: 0 10px;
+    }
+    .content2-Field{
+        display: block;
+    }
+    .left{
+        width: 100%;
+        position: absolute;
+        top: -30%;
+        padding: 20px;
+    }
+    .left p{
+    font-size: 25px;
+    }
+    .content2-Field h1{
+        left: 38%;
+    }
+    .line1{
+        top: 40%;
+        position: absolute;
+
+    }
+    .line2{
+        top: 73%;
+        position: absolute;
+    }
+    .line3{
+        top: 106%;
+        position: absolute;
+    }
+}
